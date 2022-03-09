@@ -7,7 +7,7 @@ package vehiculos;
 
 /**
  *
- * @author Ganso
+ * @author Sebastian gil
  */
 public class Car extends Vehicle{
     
